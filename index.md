@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Ramona's sticker shop"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Custom stickers available now
+Tell us what you want and we'll make a special sticker for you.
+Pay what you want. Donations go to charity
